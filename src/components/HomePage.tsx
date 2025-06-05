@@ -84,6 +84,10 @@ const HomePage: React.FC = () => {
         </section>
  
 
+
+
+ 
+
         <Footer />
       </div>
     </div>

@@ -9,6 +9,12 @@ const Footer: React.FC = () => {
     minutes: 0,
   });
 
+
+
+
+
+  
+
   useEffect(() => {
     const startDate = new Date('2025-03-13T00:00:00');
 
